@@ -123,11 +123,3 @@ Prediction: \['Spam']
 Made with ❤️ by \Nasira Mujawar(K)
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use or modify.
-
-```
-
-
